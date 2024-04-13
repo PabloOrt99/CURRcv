@@ -469,25 +469,8 @@ h2{
     background-color: #5e2066;
     transform: translateY(-50%) rotate(45seg);
 }
-.idiomas{
-    position: relative;
-    max-width: 500px;
-    width:500px;
-    background: white;
-    margin: 0 15px;
-    padding: 10px 20px;
-    border-radius: 7px;
-}
-.idiomas .skill-box{
-    width: 100%;
-    margin: 25px;
-}
-.skill-box .idio{
-    display:block;
-    font-size:14px;
-    font-weight:600;
-    color: #5e2066;
-}
+
+
 .skill-box .skill-bar{
     width: 100px;
     height: 8px;
